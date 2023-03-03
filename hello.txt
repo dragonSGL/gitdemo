@@ -1,4 +1,5 @@
-hello git  easy
-hello python   cake
-hello python
-hello python
+hello git  33
+hello python   33
+hello python   33
+hello python   33
+study
