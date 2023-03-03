@@ -1,5 +1,5 @@
-hello git  33
-hello python   33
-hello python   33
-hello python   33
-study git33
+hello git  3
+hello python   3
+hello python   3
+hello python   3
+study git3
