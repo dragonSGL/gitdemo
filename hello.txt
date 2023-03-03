@@ -1,4 +1,4 @@
-hello git
-hello python
+hello git  easy
+hello python   cake
 hello python
 hello python
